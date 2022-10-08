@@ -1,1 +1,1 @@
-![Armodia Systems LOGO](https://www.dylank-systems.xyz/images/banner.png)
+![Armodia Systems LOGO](https://github.com/ninjaninja140/ninjaninja140.github.io/blob/main/images/banner.png)
