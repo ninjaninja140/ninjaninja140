@@ -1,1 +1,1 @@
-![Armodia Systems LOGO](https://github.com/ninjaninja140/ninjaninja140.github.io/blob/main/images/banner.png)
+![Bracketed Logo](https://github.com/Bracketed/BracketedBot/blob/development/src/assets/branding/LogoBanner.png))
