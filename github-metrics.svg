@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2108" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1791" class="large">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3026 Commits
+                            3030 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -184,13 +184,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    1.22 GB used
+                                    1.20 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    996k added, 608k removed
+                                    13.8m added, 13.4m removed
                                 </div>
                             </section>
                             <section>
@@ -1868,305 +1868,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Bracketed/BrewXD</span>
+                                        <span class="repo">Bracketed/bracketed-shadow-database-backups</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2f7d976</div>
-                                        <div class="message">new backend crap</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 180 commits in
-                                        <span class="repo">Bracketed/node.js</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fc0f2cf</div>
-                                        <div class="message">lib,src: extract sourceMappingURL from module
-
-PR-URL: https://github.com/nodejs/node/pull/51690
-Refs: https://github.com/nodejs/node/issues/51522
-Reviewed-By: Antoine du Hamel &lt;duhamelantoine1995@gmail.com&gt;
-Reviewed-By: Chengzhong Wu &lt;legendecas@gmail.com&gt;
-Reviewed-By: Joyee Cheung &lt;joyeec9h3@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ac98b1</div>
-                                        <div class="message">lib: do not access process.noDeprecation at build time
-
-Delay access at run time otherwise the value is captured at build
-time and always false.
-
-PR-URL: https://github.com/nodejs/node/pull/51447
-Reviewed-By: Jithil P Ponnan &lt;jithil@outlook.com&gt;
-Reviewed-By: Antoine du Hamel &lt;duhamelantoine1995@gmail.com&gt;
-Reviewed-By: Benjamin Gruenbaum &lt;benjamingr@gmail.com&gt;
-Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;
-Reviewed-By: Chengzhong Wu &lt;legendecas@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4dd041</div>
-                                        <div class="message">test: deflake test-http2-large-write-multiple-requests
-
-If the server is not referenced, it might go away too soon
-and the client may not get enough ends for it to close
-itself, resulting a timeout.
-This patch updates the test to simply close the server when
-enough requests have been processed, and keep the server
-referenced while the test is ongoing.
-
-Drive-by: add more logs to facilitate debugging.
-PR-URL: https://github.com/nodejs/node/pull/51863
-Refs: https://github.com/nodejs/reliability/issues/791
-Reviewed-By: Marco Ippolito &lt;marcoippolito54@gmail.com&gt;
-Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bac55f7</div>
-                                        <div class="message">deps: update simdjson to 3.7.0
-
-PR-URL: https://github.com/nodejs/node/pull/51859
-Reviewed-By: Yagiz Nizipli &lt;yagiz.nizipli@sentry.io&gt;
-Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13f66c2</div>
-                                        <div class="message">crypto: update root certificates to NSS 3.98
-
-This is the certdata.txt[0] from NSS 3.98, released on 2024-02-15.
-
-This is the version of NSS that will ship in Firefox 124 on
-2024-03-19.
-
-Certificates added:
-- Telekom Security TLS ECC Root 2020
-- Telekom Security TLS RSA Root 2023
-
-Certificates removed:
-- Security Communication Root CA
-
-[0] https://hg.mozilla.org/projects/nss/raw-file/NSS_3_98_RTM/lib/ckfw/builtins/certdata.txt
-
-PR-URL: https://github.com/nodejs/node/pull/51794
-Reviewed-By: Richard Lau &lt;rlau@redhat.com&gt;
-Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;
-Reviewed-By: Moshe Atlow &lt;moshe@atlow.co.il&gt;
-Reviewed-By: Michaël Zasso &lt;targos@protonmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1353a7b</div>
-                                        <div class="message">test: fix test-debugger-profile for coverage generation
-
-The child process should not inherit NODE_V8_COVERAGE because
-that clobbers the inspector output the test is checking.
-
-PR-URL: https://github.com/nodejs/node/pull/51816
-Reviewed-By: Moshe Atlow &lt;moshe@atlow.co.il&gt;
-Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;
-Reviewed-By: Ethan Arrowood &lt;ethan@arrowood.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#765baa7</div>
-                                        <div class="message">test: fix test-bootstrap-modules for coverage generation
-
-The internal binding profiler is loaded if the test is run with
-NODE_V8_COVERAGE.
-
-PR-URL: https://github.com/nodejs/node/pull/51816
-Reviewed-By: Moshe Atlow &lt;moshe@atlow.co.il&gt;
-Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;
-Reviewed-By: Ethan Arrowood &lt;ethan@arrowood.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db070ee</div>
-                                        <div class="message">deps: update corepack to 0.25.2
-
-PR-URL: https://github.com/nodejs/node/pull/51810
-Reviewed-By: Antoine du Hamel &lt;duhamelantoine1995@gmail.com&gt;
-Reviewed-By: Matteo Collina &lt;matteo.collina@gmail.com&gt;
-Reviewed-By: Marco Ippolito &lt;marcoippolito54@gmail.com&gt;
-Reviewed-By: Rafael Gonzaga &lt;rafael.nunu@hotmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b96741</div>
-                                        <div class="message">deps: update c-ares to 1.27.0
-
-PR-URL: https://github.com/nodejs/node/pull/51846
-Reviewed-By: Michaël Zasso &lt;targos@protonmail.com&gt;
-Reviewed-By: Mohammed Keyvanzadeh &lt;mohammadkeyvanzade94@gmail.com&gt;
-Reviewed-By: Marco Ippolito &lt;marcoippolito54@gmail.com&gt;
-Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb13e52</div>
-                                        <div class="message">tools: update lint-md-dependencies to rollup@4.12.0
-
-PR-URL: https://github.com/nodejs/node/pull/51795
-Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;
-Reviewed-By: Moshe Atlow &lt;moshe@atlow.co.il&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#921b883</div>
-                                        <div class="message">tools: update lint-md-dependencies to rollup@4.12.0
-
-PR-URL: https://github.com/nodejs/node/pull/51795
-Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;
-Reviewed-By: Moshe Atlow &lt;moshe@atlow.co.il&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8586db</div>
-                                        <div class="message">tools: fix missing [[fallthrough]] in js2c
-
-The latest clang warns about this.
-
-PR-URL: https://github.com/nodejs/node/pull/51845
-Reviewed-By: Chengzhong Wu &lt;legendecas@gmail.com&gt;
-Reviewed-By: Antoine du Hamel &lt;duhamelantoine1995@gmail.com&gt;
-Reviewed-By: Mohammed Keyvanzadeh &lt;mohammadkeyvanzade94@gmail.com&gt;
-Reviewed-By: Joyee Cheung &lt;joyeec9h3@gmail.com&gt;
-Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56ced19</div>
-                                        <div class="message">build: remove `librt` libs link for Android compatibility
-
-PR-URL: https://github.com/nodejs/node/pull/51632
-Fixes: https://github.com/nodejs/node/issues/50184
-Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;
-Reviewed-By: Joyee Cheung &lt;joyeec9h3@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f3852c</div>
-                                        <div class="message">test: ensure delay in recursive fs watch tests
-
-The recursive fs watch tests that mutate the watched folder
-immediately after fs.watch() returns are all flaking in the
-CI while the others that mutate the folder with a bit of delay
-aren't flaking. So this patch adds a bit of delay for the rest
-of the tests to deflake them.
-
-PR-URL: https://github.com/nodejs/node/pull/51842
-Refs: https://github.com/nodejs/reliability/issues/790
-Reviewed-By: Michaël Zasso &lt;targos@protonmail.com&gt;
-Reviewed-By: Antoine du Hamel &lt;duhamelantoine1995@gmail.com&gt;
-Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec7a268</div>
-                                        <div class="message">test: fix test-child-process-fork-net
-
-The child processes are supposed to get 4 messages (2 ends, 2 writes).
-Previously the mustCall() wrapping the message listener attempts
-to match exactly 1 invocation which is bound to fail but could be
-swallowed if the child happens to be killed before the exit event
-is fired for the mustCall() check to work. In the CI, on some
-machines the kill() could happen after the child process finishes
-with the mustCall() check, resulting in EPERM errors in kill().
-
-This patch fixes the mustCall() checks (updating the expected
-invocation count to 4) and swallow the errors when kill() fails,
-which should be fine because they are only there for cleanup.
-
-PR-URL: https://github.com/nodejs/node/pull/51841
-Refs: https://github.com/nodejs/node/issues/51813
-Reviewed-By: Michaël Zasso &lt;targos@protonmail.com&gt;
-Reviewed-By: Antoine du Hamel &lt;duhamelantoine1995@gmail.com&gt;
-Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a492646</div>
-                                        <div class="message">tools: disable automated libuv updates
-
-Because the previous security release modified the bundled version of
-libuv, we cannot automatically update libuv without potentially undoing
-those changes.
-
-PR-URL: https://github.com/nodejs/node/pull/51775
-Reviewed-By: Joyee Cheung &lt;joyeec9h3@gmail.com&gt;
-Reviewed-By: Marco Ippolito &lt;marcoippolito54@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5376c5</div>
-                                        <div class="message">test: split wasi tests
-
-Move the child process code into a fixture and split the test
-so that it can be run in parallel and it's easier to identify
-where the failure is coming from. Also use the
-spawnSyncAndExitWithoutError() utility so that the test shows
-complete information on failure.
-
-Instead of marking all the wasi tests as flaky, only mark the
-wasi-poll one which is flaking in the CI now.
-
-PR-URL: https://github.com/nodejs/node/pull/51836
-Refs: https://github.com/nodejs/node/issues/51822
-Reviewed-By: Marco Ippolito &lt;marcoippolito54@gmail.com&gt;
-Reviewed-By: Rich Trott &lt;rtrott@gmail.com&gt;
-Reviewed-By: Michaël Zasso &lt;targos@protonmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0161ad0</div>
-                                        <div class="message">inspector: add NodeRuntime.waitingForDebugger event
-
-`NodeRuntime.waitingForDebugger` is a new Inspector Protocol event that
-will fire when the process being inspected is waiting for the debugger
-(for example, when `inspector.waitForDebugger()` is called). This allows
-inspecting processes to know when the inspected process is waiting for a
-`Runtime.runIfWaitingForDebugger` message to resume execution. It allows
-tooling to resume execution of the inspected process as soon as it deems
-necessary, without having to guess if the inspected process is waiting
-or not, making the workflow more deterministic. With a more
-deterministic workflow, it is possible to update Node.js core tests to
-avoid race conditions that can cause flakiness. Therefore, tests were
-also changed as following:
-
-  * Remove no-op Runtime.runIfWaitingForDebugger from tests that don't
-    need it
-  * Use NodeRuntime.waitingForDebugger in all tests that need
-    Runtime.runIfWaitingForDebugger, to ensure order of operations is
-    predictable and correct
-  * Simplify test-inspector-multisession-ws
-
-There might be value in adding `NodeWorker.waitingForDebugger` in a
-future patch, but as of right now, no Node.js core inspector tests using
-worker threads are not failing due to race conditions.
-
-Fixes: https://github.com/nodejs/node/issues/34730
-PR-URL: https://github.com/nodejs/node/pull/51560
-Reviewed-By: Benjamin Gruenbaum &lt;benjamingr@gmail.com&gt;
-Reviewed-By: Franziska Hinkelmann &lt;franziska.hinkelmann@gmail.com&gt;
-Reviewed-By: Joyee Cheung &lt;joyeec9h3@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#281c342</div>
-                                        <div class="message">node-api: make napi_get_buffer_info check if passed buffer is valid
-
-PR-URL: https://github.com/nodejs/node/pull/51571
-Reviewed-By: Michael Dawson &lt;midawson@redhat.com&gt;
-Reviewed-By: Vladimir Morozov &lt;vmorozov@microsoft.com&gt;
-Reviewed-By: Chengzhong Wu &lt;legendecas@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f04abdb</div>
-                                        <div class="message">build: do not rely on gn_helpers in GN build
-
-PR-URL: https://github.com/nodejs/node/pull/51439
-Reviewed-By: Yagiz Nizipli &lt;yagiz.nizipli@sentry.io&gt;
-Reviewed-By: Michaël Zasso &lt;targos@protonmail.com&gt;
-Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
+                                        <div class="sha">#297e0e0</div>
+                                        <div class="message">Added Dump: 2024-03-22 19:40:01</div>
                                     </div>
                                 </div>
                             </section>
@@ -2185,8 +1894,8 @@ Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6ee9257</div>
-                                        <div class="message">Added Dump: 2024-03-21 19:40:02</div>
+                                        <div class="sha">#061a0d3</div>
+                                        <div class="message">Added Dump: 2024-03-22 19:40:01</div>
                                     </div>
                                 </div>
                             </section>
@@ -2205,8 +1914,8 @@ Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ba1e0d0</div>
-                                        <div class="message">Added Dump: 2024-03-21 19:40:02</div>
+                                        <div class="sha">#c776e66</div>
+                                        <div class="message">Added Dump: 2024-03-22 19:40:01</div>
                                     </div>
                                 </div>
                             </section>
@@ -2225,8 +1934,28 @@ Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#09aba0f</div>
-                                        <div class="message">Added Dump: 2024-03-21 19:40:02</div>
+                                        <div class="sha">#66df7ec</div>
+                                        <div class="message">Added Dump: 2024-03-22 19:40:01</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Bracketed/BrewXD</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2f7d976</div>
+                                        <div class="message">new backend crap</div>
                                     </div>
                                 </div>
                             </section>
@@ -2236,7 +1965,7 @@ Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Mar 2024, 19:14:42 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Mar 2024, 20:16:23 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
