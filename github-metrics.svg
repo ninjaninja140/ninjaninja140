@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1791" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2108" class="large">
     <defs>
         <style/>
     </defs>
@@ -128,7 +128,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 29 users
+                            Following 30 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    255k added, 45.9k removed
+                                    779k added, 571k removed
                                 </div>
                             </section>
                             <section>
@@ -1814,10 +1814,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    29 followed
+                    30 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACX0lEQVR4nO2UW28SURDH+UaHHpBbDYQDQlsIiC2NXIRCLG0JdBcQ2uW2mEqaKoiiTcNFCwmWcu1GIEpti5cmPvns1zF1FWlru5Dwpsk8nJn897dn5z+zLADR2IP1HwqYesQRTBHVbqh5zBNrxtZTxd3lpWT+XjSJ5aqAIxuTURzZUjLvelnSYySWrYzf/ZVnBdUCNjKUJ9G6d8qBvY6/1PKXWhYyBSBic+Vqu3c1s29c3ww1jhyJXGCvg2UrQnRnKGj07Sep1tpP2Vy5OZwg21+sZEqAdAAi/FV9UjEPIBKrTLHOKZsrZ4BK1Gbn8+KgRWT7VI/HBjU6Z9AQiNNn26MXSsMKA1SsMvWh9vi2r3DAnVRd0Ihu6Vcz+7+gG2lmKIAo2vrM5srdO2XD2uZVVgRrh/QhQn2c4CmYoWq7F8/V5j0PB4vLqV08V/sDrX8AEOnxmG0jPZRRMxa3r0gNegUgCh+cxE++DUIhX0nUDi+7BP4KDVM9nlhDVLtKo/PKz/9502HnVCSfwzJnOwP5yv6QXgi+ROvdbY4A1WPkk6/f1XYPnZqIrTDVk95eONd0m8cSfQogmjI6Q81jnZNggK5X3k/wFGGqR6dc0YxAqsPzdX+pPW120UVHIke/Jlg/4gjPfmAM0LnVCFHtzrojdEpUuxzhNIBIKJu1baTXyu/8pbZru+R4nPXk62GqR1S7/UW4zigwEJr7Dxa3Mucqi36p1ipRmy8vxbBQAFHgTbs/BkhnCzWOGR9hMSogX4nna77Cgfd1w1ekrrngCFDw27EbN9VDillD6kYK1r8N/QEtTmOkZgSx+QAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACOklEQVR4nI1W30tUQRSev+ROBnccN/yxlFpRkqItCyah5GKtCya95IO2D629tA+7aAQFwqaSCPoviILhj6iH8KmshxLzKY12W8iHfL18QYN3x5m5c+9lHu6cOfOdc75z5swQ6nLKpKFNHXnKalNZrugQfYOioQzHIndNoLqeb8ZuSTFJglzQUcy4Cl1MgOpSTWL0NFDiWsO3+fjfcBAnJDQzUXPlm3E5cUzBip/Erb6xiUcReZSFRDUurf0qlwGkR+7X7Nnh1JJyDXHNvl74sLMTb78i7/ezYSGHWMhKpTP5QvFcfYOY1je1ZHOTpbn5J0/zTa3tFq6Jhfujo58Abg+mKOOdieSPw0Ocfn+Oj/tTQ46dU2oa1WoVQGo4c77hwveDAwBfv+09f/HyzeYmgHKlwpvjgSVFTT3FkUDv3L0H4O/JSeOlNqHz9t17AGPjptpg0Tx9OD4BYG9/31+aeTULoDA1HTV8x1VBb/b2AfA8Lz0yShlvabssQIvTz4zNkFiS6INSxje2tkWKKpXfHz/tzpRqoDqBJDT8wfQwZTwWv7i2vi5wdz9/yReKALKPc0onpRbQ1mvXF5eWPc8D0JlI+js7unsyow+6Esk6HuvtH/BLOFKiSnPzwqmV1TX9FJpPlDlRbk169UbX4tJyNjdZx2P6CQ5t58SibRyBV4vsqRMUTpSQA6wSm4aGGH5du2ElZc6G/Z3AzoLaXgkalkqrWPWbtEx8EL+RLrHT/h3GaZQyOMu7eEz8A1su8q7Qfe0KAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACZklEQVR4nGNQVtciBrnrG3obGBGpmIEYRW56hjcCAm8GBnobGFPHUHd9wwdBQelmFqlmFm/Dw30NjSk11F3f8FFQcJutPYTbZufwPiKCoLkM+Ew0MHwYEbTc3Q1ZcKW7B0FzGXBJuFoY3GrxOVDurqmljSyuoaF9MsH3dV6Il6UhaYYa6encavG51uRtbqiLKWtmoHuv3e95d4CZgS4Jhjqa6T/u9POxxukWL2vDt/1B7jgcy4DL0BPVnnhCTUNT60KDD2mGOtsaXFjoj1VKRV0r18f8YoP3l0nBpBnq4mR4eXsQpnhKjPm5dX7vt4W8XRT0ZSrFhkYEmR5b4/v5Qjgc/b4a6eFMrqHeHka7FnkhGwdBf25EeboZkRKmToYXtgc72Bmsnur+8VwYponkGKrtYR3xZVrs2/7iN519z+rW3C86fSPtxaUoSg2N/jM7/PNUFPRpSvr7vqpXbW0vmlpfNNV86TXwtqbY0M8gFPZxiue+SrOSIP8rbTo+tpQa6nu20aolWsPWFKLG72wTiYbaOkZvPxG+6UD43h0Bx6bZTUnW8UbXT7qhhl6RGd+c/VYamMcpq6OUUghDt07UcXUgzdDgpEfKGtgLITDS8Y+5qmPoQ4Kh6jrW4WnvXfyX4zLU3mt2cOIzDR1SvK+srqVrHBSe9t7SqRFTysyuLDjxma5xMDnVib5xcEPcaxeTOGRBPdPwoISHuiYh5Fd89obBC4Pvm+u5Q7gmOk4TA65YGoVQWkXbGwZP9T+no2WhpWna633YwZCAicQ2JuwMgurd11e7rrI3wBmOJBsKNjeQGDdCDAUAvKQh9fsnH/MAAAAASUVORK5CYII=" width="28" height="28" alt="" />
@@ -1859,6 +1860,297 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 180 commits in
+                                        <span class="repo">Bracketed/node.js</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fc0f2cf</div>
+                                        <div class="message">lib,src: extract sourceMappingURL from module
+
+PR-URL: https://github.com/nodejs/node/pull/51690
+Refs: https://github.com/nodejs/node/issues/51522
+Reviewed-By: Antoine du Hamel &lt;duhamelantoine1995@gmail.com&gt;
+Reviewed-By: Chengzhong Wu &lt;legendecas@gmail.com&gt;
+Reviewed-By: Joyee Cheung &lt;joyeec9h3@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ac98b1</div>
+                                        <div class="message">lib: do not access process.noDeprecation at build time
+
+Delay access at run time otherwise the value is captured at build
+time and always false.
+
+PR-URL: https://github.com/nodejs/node/pull/51447
+Reviewed-By: Jithil P Ponnan &lt;jithil@outlook.com&gt;
+Reviewed-By: Antoine du Hamel &lt;duhamelantoine1995@gmail.com&gt;
+Reviewed-By: Benjamin Gruenbaum &lt;benjamingr@gmail.com&gt;
+Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;
+Reviewed-By: Chengzhong Wu &lt;legendecas@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4dd041</div>
+                                        <div class="message">test: deflake test-http2-large-write-multiple-requests
+
+If the server is not referenced, it might go away too soon
+and the client may not get enough ends for it to close
+itself, resulting a timeout.
+This patch updates the test to simply close the server when
+enough requests have been processed, and keep the server
+referenced while the test is ongoing.
+
+Drive-by: add more logs to facilitate debugging.
+PR-URL: https://github.com/nodejs/node/pull/51863
+Refs: https://github.com/nodejs/reliability/issues/791
+Reviewed-By: Marco Ippolito &lt;marcoippolito54@gmail.com&gt;
+Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bac55f7</div>
+                                        <div class="message">deps: update simdjson to 3.7.0
+
+PR-URL: https://github.com/nodejs/node/pull/51859
+Reviewed-By: Yagiz Nizipli &lt;yagiz.nizipli@sentry.io&gt;
+Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13f66c2</div>
+                                        <div class="message">crypto: update root certificates to NSS 3.98
+
+This is the certdata.txt[0] from NSS 3.98, released on 2024-02-15.
+
+This is the version of NSS that will ship in Firefox 124 on
+2024-03-19.
+
+Certificates added:
+- Telekom Security TLS ECC Root 2020
+- Telekom Security TLS RSA Root 2023
+
+Certificates removed:
+- Security Communication Root CA
+
+[0] https://hg.mozilla.org/projects/nss/raw-file/NSS_3_98_RTM/lib/ckfw/builtins/certdata.txt
+
+PR-URL: https://github.com/nodejs/node/pull/51794
+Reviewed-By: Richard Lau &lt;rlau@redhat.com&gt;
+Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;
+Reviewed-By: Moshe Atlow &lt;moshe@atlow.co.il&gt;
+Reviewed-By: Michaël Zasso &lt;targos@protonmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1353a7b</div>
+                                        <div class="message">test: fix test-debugger-profile for coverage generation
+
+The child process should not inherit NODE_V8_COVERAGE because
+that clobbers the inspector output the test is checking.
+
+PR-URL: https://github.com/nodejs/node/pull/51816
+Reviewed-By: Moshe Atlow &lt;moshe@atlow.co.il&gt;
+Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;
+Reviewed-By: Ethan Arrowood &lt;ethan@arrowood.dev&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#765baa7</div>
+                                        <div class="message">test: fix test-bootstrap-modules for coverage generation
+
+The internal binding profiler is loaded if the test is run with
+NODE_V8_COVERAGE.
+
+PR-URL: https://github.com/nodejs/node/pull/51816
+Reviewed-By: Moshe Atlow &lt;moshe@atlow.co.il&gt;
+Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;
+Reviewed-By: Ethan Arrowood &lt;ethan@arrowood.dev&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db070ee</div>
+                                        <div class="message">deps: update corepack to 0.25.2
+
+PR-URL: https://github.com/nodejs/node/pull/51810
+Reviewed-By: Antoine du Hamel &lt;duhamelantoine1995@gmail.com&gt;
+Reviewed-By: Matteo Collina &lt;matteo.collina@gmail.com&gt;
+Reviewed-By: Marco Ippolito &lt;marcoippolito54@gmail.com&gt;
+Reviewed-By: Rafael Gonzaga &lt;rafael.nunu@hotmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b96741</div>
+                                        <div class="message">deps: update c-ares to 1.27.0
+
+PR-URL: https://github.com/nodejs/node/pull/51846
+Reviewed-By: Michaël Zasso &lt;targos@protonmail.com&gt;
+Reviewed-By: Mohammed Keyvanzadeh &lt;mohammadkeyvanzade94@gmail.com&gt;
+Reviewed-By: Marco Ippolito &lt;marcoippolito54@gmail.com&gt;
+Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb13e52</div>
+                                        <div class="message">tools: update lint-md-dependencies to rollup@4.12.0
+
+PR-URL: https://github.com/nodejs/node/pull/51795
+Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;
+Reviewed-By: Moshe Atlow &lt;moshe@atlow.co.il&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#921b883</div>
+                                        <div class="message">tools: update lint-md-dependencies to rollup@4.12.0
+
+PR-URL: https://github.com/nodejs/node/pull/51795
+Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;
+Reviewed-By: Moshe Atlow &lt;moshe@atlow.co.il&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8586db</div>
+                                        <div class="message">tools: fix missing [[fallthrough]] in js2c
+
+The latest clang warns about this.
+
+PR-URL: https://github.com/nodejs/node/pull/51845
+Reviewed-By: Chengzhong Wu &lt;legendecas@gmail.com&gt;
+Reviewed-By: Antoine du Hamel &lt;duhamelantoine1995@gmail.com&gt;
+Reviewed-By: Mohammed Keyvanzadeh &lt;mohammadkeyvanzade94@gmail.com&gt;
+Reviewed-By: Joyee Cheung &lt;joyeec9h3@gmail.com&gt;
+Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#56ced19</div>
+                                        <div class="message">build: remove `librt` libs link for Android compatibility
+
+PR-URL: https://github.com/nodejs/node/pull/51632
+Fixes: https://github.com/nodejs/node/issues/50184
+Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;
+Reviewed-By: Joyee Cheung &lt;joyeec9h3@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f3852c</div>
+                                        <div class="message">test: ensure delay in recursive fs watch tests
+
+The recursive fs watch tests that mutate the watched folder
+immediately after fs.watch() returns are all flaking in the
+CI while the others that mutate the folder with a bit of delay
+aren't flaking. So this patch adds a bit of delay for the rest
+of the tests to deflake them.
+
+PR-URL: https://github.com/nodejs/node/pull/51842
+Refs: https://github.com/nodejs/reliability/issues/790
+Reviewed-By: Michaël Zasso &lt;targos@protonmail.com&gt;
+Reviewed-By: Antoine du Hamel &lt;duhamelantoine1995@gmail.com&gt;
+Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec7a268</div>
+                                        <div class="message">test: fix test-child-process-fork-net
+
+The child processes are supposed to get 4 messages (2 ends, 2 writes).
+Previously the mustCall() wrapping the message listener attempts
+to match exactly 1 invocation which is bound to fail but could be
+swallowed if the child happens to be killed before the exit event
+is fired for the mustCall() check to work. In the CI, on some
+machines the kill() could happen after the child process finishes
+with the mustCall() check, resulting in EPERM errors in kill().
+
+This patch fixes the mustCall() checks (updating the expected
+invocation count to 4) and swallow the errors when kill() fails,
+which should be fine because they are only there for cleanup.
+
+PR-URL: https://github.com/nodejs/node/pull/51841
+Refs: https://github.com/nodejs/node/issues/51813
+Reviewed-By: Michaël Zasso &lt;targos@protonmail.com&gt;
+Reviewed-By: Antoine du Hamel &lt;duhamelantoine1995@gmail.com&gt;
+Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a492646</div>
+                                        <div class="message">tools: disable automated libuv updates
+
+Because the previous security release modified the bundled version of
+libuv, we cannot automatically update libuv without potentially undoing
+those changes.
+
+PR-URL: https://github.com/nodejs/node/pull/51775
+Reviewed-By: Joyee Cheung &lt;joyeec9h3@gmail.com&gt;
+Reviewed-By: Marco Ippolito &lt;marcoippolito54@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5376c5</div>
+                                        <div class="message">test: split wasi tests
+
+Move the child process code into a fixture and split the test
+so that it can be run in parallel and it's easier to identify
+where the failure is coming from. Also use the
+spawnSyncAndExitWithoutError() utility so that the test shows
+complete information on failure.
+
+Instead of marking all the wasi tests as flaky, only mark the
+wasi-poll one which is flaking in the CI now.
+
+PR-URL: https://github.com/nodejs/node/pull/51836
+Refs: https://github.com/nodejs/node/issues/51822
+Reviewed-By: Marco Ippolito &lt;marcoippolito54@gmail.com&gt;
+Reviewed-By: Rich Trott &lt;rtrott@gmail.com&gt;
+Reviewed-By: Michaël Zasso &lt;targos@protonmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0161ad0</div>
+                                        <div class="message">inspector: add NodeRuntime.waitingForDebugger event
+
+`NodeRuntime.waitingForDebugger` is a new Inspector Protocol event that
+will fire when the process being inspected is waiting for the debugger
+(for example, when `inspector.waitForDebugger()` is called). This allows
+inspecting processes to know when the inspected process is waiting for a
+`Runtime.runIfWaitingForDebugger` message to resume execution. It allows
+tooling to resume execution of the inspected process as soon as it deems
+necessary, without having to guess if the inspected process is waiting
+or not, making the workflow more deterministic. With a more
+deterministic workflow, it is possible to update Node.js core tests to
+avoid race conditions that can cause flakiness. Therefore, tests were
+also changed as following:
+
+  * Remove no-op Runtime.runIfWaitingForDebugger from tests that don't
+    need it
+  * Use NodeRuntime.waitingForDebugger in all tests that need
+    Runtime.runIfWaitingForDebugger, to ensure order of operations is
+    predictable and correct
+  * Simplify test-inspector-multisession-ws
+
+There might be value in adding `NodeWorker.waitingForDebugger` in a
+future patch, but as of right now, no Node.js core inspector tests using
+worker threads are not failing due to race conditions.
+
+Fixes: https://github.com/nodejs/node/issues/34730
+PR-URL: https://github.com/nodejs/node/pull/51560
+Reviewed-By: Benjamin Gruenbaum &lt;benjamingr@gmail.com&gt;
+Reviewed-By: Franziska Hinkelmann &lt;franziska.hinkelmann@gmail.com&gt;
+Reviewed-By: Joyee Cheung &lt;joyeec9h3@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#281c342</div>
+                                        <div class="message">node-api: make napi_get_buffer_info check if passed buffer is valid
+
+PR-URL: https://github.com/nodejs/node/pull/51571
+Reviewed-By: Michael Dawson &lt;midawson@redhat.com&gt;
+Reviewed-By: Vladimir Morozov &lt;vmorozov@microsoft.com&gt;
+Reviewed-By: Chengzhong Wu &lt;legendecas@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f04abdb</div>
+                                        <div class="message">build: do not rely on gn_helpers in GN build
+
+PR-URL: https://github.com/nodejs/node/pull/51439
+Reviewed-By: Yagiz Nizipli &lt;yagiz.nizipli@sentry.io&gt;
+Reviewed-By: Michaël Zasso &lt;targos@protonmail.com&gt;
+Reviewed-By: Luigi Pinca &lt;luigipinca@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1939,32 +2231,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Bracketed/vrfy-database-backups</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2b672fe</div>
-                                        <div class="message">Added Dump: 2024-03-21 16:54:01</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Mar 2024, 11:14:03 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Mar 2024, 12:29:14 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
