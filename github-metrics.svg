@@ -1585,7 +1585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/web-platform-packages</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scripts and plugins that provide centralized defaults for HashiCorp Next.js web properties</div>
@@ -1638,7 +1638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/design-system</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Helios Design System</div>
@@ -1691,7 +1691,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/react-components</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of HashiCorp branded react components currently maintained and used by the marketing dev team</div>
@@ -1744,7 +1744,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Bracketed/VSDS</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Virtua Script Distribution System! This is an automatc updating module, obfuscated &amp; closed-source for security reasons.</div>
@@ -1962,7 +1962,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2024, 23:16:56 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 May 2024, 00:16:59 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
