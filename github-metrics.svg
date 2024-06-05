@@ -1881,7 +1881,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7b2c3d4</div>
+                                        <div class="sha">#cc45221</div>
                                         <div class="message">s</div>
                                     </div>
                                 </div>
@@ -1901,8 +1901,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
-                                        <div class="sha">#71d11c6</div>
-                                        <div class="message">fix</div>
+                                        <div class="sha">#aad30f2</div>
+                                        <div class="message">g</div>
                                     </div>
                                 </div>
                             </section>
@@ -1921,8 +1921,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2611673</div>
-                                        <div class="message">fix for ui</div>
+                                        <div class="sha">#e5f14bb</div>
+                                        <div class="message">fixes</div>
                                     </div>
                                 </div>
                             </section>
@@ -1941,8 +1941,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0d2369a</div>
-                                        <div class="message">debug crapo</div>
+                                        <div class="sha">#edf5b53</div>
+                                        <div class="message">Movement changes</div>
                                     </div>
                                 </div>
                             </section>
@@ -1955,14 +1955,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Bracketed/bracketed-database-backups</span>
+                                        <span class="repo">Bracketed/VSDS-V3</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9915d32</div>
-                                        <div class="message">Added Dump: 2024-06-05 17:11:01</div>
+                                        <div class="sha">#7b2c3d4</div>
+                                        <div class="message">s</div>
                                     </div>
                                 </div>
                             </section>
@@ -1972,7 +1972,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2024, 22:18:42 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jun 2024, 23:17:20 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
