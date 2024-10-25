@@ -84,7 +84,7 @@ Director at @Bracketed!</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4074 Commits
+                            4075 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -192,7 +192,7 @@ Director at @Bracketed!</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    13.1m added, 12.9m removed
+                                    13.9m added, 13.5m removed
                                 </div>
                             </section>
                             <section>
@@ -240,14 +240,14 @@ Director at @Bracketed!</div>
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.25950652121549" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="251.25950652121549" y="0" width="151.56322481847275" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="402.82273133968823" y="0" width="144.43385009807633" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="547.2565814377646" y="0" width="138.66782236140264" height="8" fill="#df7900"/>
-                    <rect mask="url(#languages-bar)" x="685.9244037991672" y="0" width="91.96359131422278" height="8" fill="#00A2FF"/>
-                    <rect mask="url(#languages-bar)" x="777.8879951133899" y="0" width="51.00817302728931" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="828.8961681406793" y="0" width="30.6652155958567" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="859.561383736536" y="0" width="60.438616263463985" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.73611511112983" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="251.73611511112983" y="0" width="151.45520633362247" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="403.1913214447523" y="0" width="144.33091268916746" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="547.5222341339198" y="0" width="138.5689943766662" height="8" fill="#df7900"/>
+                    <rect mask="url(#languages-bar)" x="686.091228510586" y="0" width="91.89804924221256" height="8" fill="#00A2FF"/>
+                    <rect mask="url(#languages-bar)" x="777.9892777527986" y="0" width="50.97181971287555" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="828.9610974656741" y="0" width="30.643360623252114" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="859.6044580889262" y="0" width="60.395541911073785" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2023,7 +2023,7 @@ Director at @Bracketed!</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Oct 2024, 23:19:00 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Oct 2024, 00:20:44 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
