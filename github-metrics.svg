@@ -84,7 +84,7 @@ Director at @Bracketed!</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4556 Commits
+                            4557 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -240,14 +240,14 @@ Director at @Bracketed!</div>
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="243.55571081902173" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="243.55571081902173" y="0" width="146.5335254718727" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="390.08923629089446" y="0" width="140.18501028273894" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="530.2742465736334" y="0" width="134.06606321857006" height="8" fill="#df7900"/>
-                    <rect mask="url(#languages-bar)" x="664.3403097922035" y="0" width="88.91173479890955" height="8" fill="#00A2FF"/>
-                    <rect mask="url(#languages-bar)" x="753.252044591113" y="0" width="69.87843286483968" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="823.1304774559527" y="0" width="29.647575498593273" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="852.778052954546" y="0" width="67.22194704545407" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="243.54781037788928" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="243.54781037788928" y="0" width="146.52877222881378" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="390.0765826067031" y="0" width="140.18046297232004" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="530.2570455790232" y="0" width="134.06171439407834" height="8" fill="#df7900"/>
+                    <rect mask="url(#languages-bar)" x="664.3187599731015" y="0" width="88.90885068699775" height="8" fill="#00A2FF"/>
+                    <rect mask="url(#languages-bar)" x="753.2276106600992" y="0" width="69.9060090418628" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="823.133619701962" y="0" width="29.646613792853927" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="852.7802334948159" y="0" width="67.21976650518404" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2055,7 +2055,7 @@ Director at @Bracketed!</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Dec 2024, 15:23:49 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Dec 2024, 16:28:37 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
