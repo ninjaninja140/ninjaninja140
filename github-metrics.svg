@@ -85,7 +85,7 @@ Developer @jadevelopmentgrp</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4559 Commits
+                            4560 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -193,7 +193,7 @@ Developer @jadevelopmentgrp</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    13.2m added, 12.9m removed
+                                    13.4m added, 12.9m removed
                                 </div>
                             </section>
                             <section>
@@ -241,14 +241,14 @@ Developer @jadevelopmentgrp</div>
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="243.54781037788928" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="243.54781037788928" y="0" width="146.52877222881378" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="390.0765826067031" y="0" width="140.18046297232004" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="530.2570455790232" y="0" width="134.06171439407834" height="8" fill="#df7900"/>
-                    <rect mask="url(#languages-bar)" x="664.3187599731015" y="0" width="88.90885068699775" height="8" fill="#00A2FF"/>
-                    <rect mask="url(#languages-bar)" x="753.2276106600992" y="0" width="69.9060090418628" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="823.133619701962" y="0" width="29.646613792853927" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="852.7802334948159" y="0" width="67.21976650518404" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="243.27995478640375" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="243.27995478640375" y="0" width="146.36761885652888" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="389.6475736429326" y="0" width="140.02629151511866" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="529.6738651580513" y="0" width="133.91427237951504" height="8" fill="#df7900"/>
+                    <rect mask="url(#languages-bar)" x="663.5881375375664" y="0" width="88.81106810889897" height="8" fill="#00A2FF"/>
+                    <rect mask="url(#languages-bar)" x="752.3992056464652" y="0" width="70.84094838052118" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="823.2401540269865" y="0" width="29.614008238894286" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="852.8541622658807" y="0" width="67.14583773411921" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1635,7 +1635,7 @@ Developer @jadevelopmentgrp</div>
                                     </svg>
                                     <div class="name">
                                         <span>jsdotlua/react-lua</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Lua.</div>
@@ -2062,7 +2062,7 @@ Developer @jadevelopmentgrp</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2024, 16:28:49 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Dec 2024, 17:19:48 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
