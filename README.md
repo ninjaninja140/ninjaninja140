@@ -28,6 +28,7 @@ I have also previously been working on e-commerse marketplace stores like Techno
 ### My skills?
 
 I have a range of skills under my belt, and abilities to work under varying tech-stacks, I know, write and understand various languages which are featured in the icon grid below.
+
 [![My Skills](https://skillicons.dev/icons?i=bash,cs,cloudflare,css,discordjs,docker,dotnet,electron,express,git,githubactionshtml,js,linux,mongodb,mysql,nextjs,nodejs,npm,postgres,powershell,prisma,py,react,robloxstudio,svg,ts,ubuntu,vercel,visualstudio,vscode,webpack,windows,workers,yarn&perline=7)](https://skillicons.dev)
 
 <hr />
