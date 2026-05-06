@@ -9,9 +9,9 @@
 
 <hr />
 
-## EdenK (@ninjaninja140)
+# EdenK (@ninjaninja140)
 
-**Full-stack web and server-side developer.**
+## Full-stack web and server-side developer.
 
 *Last updated at: `06/05/2026`*
 
