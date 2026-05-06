@@ -13,6 +13,8 @@
 
 **Full-stack web and server-side developer.**
 
+*Last updated at: `06/05/2026`*
+
 <hr />
 
 ### Who am I?
@@ -30,6 +32,46 @@ I have also previously been working on e-commerse marketplace stores like Techno
 I have a range of skills under my belt, and abilities to work under varying tech-stacks, I know, write and understand various languages which are featured in the icon grid below.
 
 [![My Skills](https://skillicons.dev/icons?i=bash,cs,cloudflare,css,discordjs,docker,dotnet,electron,express,git,githubactionshtml,js,linux,mongodb,mysql,nextjs,nodejs,npm,postgres,powershell,prisma,py,react,robloxstudio,svg,ts,ubuntu,vercel,visualstudio,vscode,webpack,windows,workers,yarn&perline=12)](https://skillicons.dev)
+
+Skills that are not featured:
+
+- Deno (v2.x)
+- Hono
+- AI Prompting, vectorisation, machine learning and engineering
+
+### Previous work (public)
+
+I have done a range of work, including work with the popular Roblox assets company [jaDevelopment](https://jadevelopment.co.uk) and varying smaller companies within that market designing and building large scale infrastructure, discord bots, websites and programs to automate development, release and user panels and dashboards as well as complex and large scale Docker deployment infrastructure.
+I have also previously worked with real-world companies like [Hearst UK](https://www.hearst.co.uk/) and [Egmont UK](https://www.egmont.com/) in their IT departments.
+
+I have also made Node.js packages like `jova.js` and more, which are featured on my organisations, [Bracketed](https://github.com/bracketed) and [NN140.UK](https://github.com/nn140).
+
+I am also currently working on developing my own specialised AI models specialised towards specific coding languages, use cases and more.
+
+### Previous work (private)
+
+I have also designed systems like custom multiplatform program installers with custom interfaces and efficient installation stacks.
+
+### My fields of Interests
+
+- Web Development
+- Web Designing
+- Infrastructure Design
+- DevOps
+- Containerization Technology & Deployment infrastructure
+- Machine Learning & AI
+- Roblox Game Development
+- Backend Design & Engineering
+- Node.js
+
+### Qualifications
+
+- National Diploma in Information Technology
+- (Pending) National Diploma in Extended Information Technology
+
+<hr />
+
+This page is a work in-progress, check back for updates! :)
 
 <hr />
 
