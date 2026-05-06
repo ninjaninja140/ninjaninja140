@@ -64,6 +64,14 @@ I have also designed systems like custom multiplatform program installers with c
 - Backend Design & Engineering
 - Node.js
 
+### My organisations
+
+- NN140.UK - Me and my main publishing name for my projects
+- Bracketed - My main organisation for publishing team and partnered projects, as well as my own but more large scale
+- Comokkinet - My personal commissions platform
+- Brite Development Collective - My Roblox Game Studio
+- Roblox-Platforms (not affiliated) - My Roblox Projects and large-scale public roblox-oriented or focused projects
+
 ### Qualifications
 
 - National Diploma in Information Technology
