@@ -13,7 +13,7 @@
 
 ## Full-stack web and server-side developer.
 
-*Last updated at: `06/05/2026`*
+*Last updated at: `07/05/2026`*
 
 <hr />
 
@@ -80,6 +80,8 @@ I have also designed systems like custom multiplatform program installers with c
 <hr />
 
 This page is a work in-progress, check back for updates! :)
+
+P.S If you were sent here from [nn140.uk](https://nn140.uk), the website is a work in progress, and will be avilable eventually!
 
 <hr />
 
