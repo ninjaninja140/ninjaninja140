@@ -13,7 +13,7 @@
 
 ## Full-stack web and server-side developer.
 
-*Last updated at: `07/05/2026`*
+*Last updated at: `22/06/2026`*
 
 <hr />
 
