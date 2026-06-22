@@ -22,7 +22,7 @@
 Howdy! My name is Eden, I also go by ninjaninja140 on varing social medias and platforms.
 I am a self-trained Node.js-focused developer who can design, build & code websites alongside designing server-side infrastcuture, APIs, CLI tools and more.
 I also design and create minimalist vector graphics, banners and emblems, which can be seen dotted about my organisations and packages.
-I am also a roblox-ts package developer, creating `basix-ui` (base-ui implamentation), `nobix-ui` (radix-primatives implamentation), `basix-themes` (coss-ui implamentation), `nobix-themes` (radix-themes implamentation), `nincn-ui` (shadcn-ui implamentation) alongside the `interkit` CLI package to manage them.
+I am also a roblox-ts package developer, working on `basix-ui` (base-ui implamentation), `nobix-ui` (radix-primatives implamentation), `basix-themes` (coss-ui implamentation), `nobix-themes` (radix-themes implamentation), `nincn-ui` (shadcn-ui implamentation) alongside the `interkit` CLI package to manage them. I have also made a range of packages for roblox-ts usage, which can be found starting with @njact/* or @nrbx/* on NPM, or elsewhere on my profile, commonly having a repository name starting with rbxts-* or on my organisations, usually nn140.
 
 I am also a software developer, focusing on C# app development alongside Tauri and Electron application development, working on my REDBUS Bus times & tracking software specialised for London Bus times and Bus tracking.
 I have also previously been working on e-commerse marketplace stores like Technology-Exchange (TechEx) for digital commerse on and off the Roblox game Platform, allowing users to buy, sell and license their creations for real money.
