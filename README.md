@@ -9,11 +9,11 @@
 
 <hr />
 
-# EdenK (@ninjaninja140)
+# Eden.K (@ninjaninja140)
 
 ## Full-stack web and server-side developer.
 
-*Last updated at: `22/06/2026`*
+*Last updated at: `23/06/2026`*
 
 <hr />
 
@@ -39,6 +39,24 @@ Skills that are not featured:
 - Hono
 - AI Prompting, vectorisation, machine learning and engineering
 
+### My fields of Interests
+
+- Web Development
+- Web Designing
+- Infrastructure Design
+- DevOps
+- Containerization Technology & Deployment infrastructure
+- Machine Learning & AI
+- Roblox Game Development
+- Backend Design & Engineering
+- Node.js
+
+### Current W.I.P Projects
+
+- Build7.xyz - My independent Roblox marketplace
+- London Railways - My Roblox Rail game
+- n.jact - A suite of Roblox-TS packages for UI design and development
+
 ### Previous work (public)
 
 I have done a range of work, including work with the popular Roblox assets company [jaDevelopment](https://jadevelopment.co.uk) and varying smaller companies within that market designing and building large scale infrastructure, discord bots, websites and programs to automate development, release and user panels and dashboards as well as complex and large scale Docker deployment infrastructure.
@@ -60,30 +78,19 @@ I have published a range of packages, which can be found under the `@nrbx/*` sco
 
 I have also designed systems like custom multiplatform program installers with custom interfaces and efficient installation stacks.
 
-### My fields of Interests
-
-- Web Development
-- Web Designing
-- Infrastructure Design
-- DevOps
-- Containerization Technology & Deployment infrastructure
-- Machine Learning & AI
-- Roblox Game Development
-- Backend Design & Engineering
-- Node.js
-
 ### My organisations
 
-- NN140.UK - Me and my main publishing name for my projects
+- NN140.UK - Me and my main publishing name for my projects (joined with NRBX for Roblox-TS package development, and n.jact)
 - Bracketed - My main organisation for publishing team and partnered projects, as well as my own but more large scale
+- Build7.xyz - My upcoming platform Roblox Marketplace for users across the platform to share and sell their work, find talent and commission assets and games.
 - Comokkinet - My personal commissions platform
 - Brite Development Collective - My Roblox Game Studio
-- Roblox-Platforms (not affiliated) - My Roblox Projects and large-scale public roblox-oriented or focused projects
+- Roblox-Platforms (not affiliated) - My Roblox Projects and large-scale public roblox-oriented or focused projects (shutting down, merging into Build7)
 
 ### Qualifications
 
 - National Diploma in Information Technology
-- (Pending) National Diploma in Extended Information Technology
+- Extended National Diploma in Information Technology
 
 <hr />
 
