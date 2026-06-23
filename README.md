@@ -48,6 +48,14 @@ I have also made Node.js packages like `jova.js` and more, which are featured on
 
 I am also currently working on developing my own specialised AI models specialised towards specific coding languages, use cases and more.
 
+### Previous work (Roblox-TS)
+
+I have published a range of packages, which can be found under the `@nrbx/*` scope on NPM.
+- `@nrbx/lucide` - Auto publishing automatically up to date Lucide icons package for Roblox-TS UI development.
+- `@nrbx/sentry-sdk` - A Roblox Sentry SDK based, ported and forked from `devSparkle/sentry-roblox`.
+- `@nrbx/topbar-components` - A fork of `@rbxts/topbar-components` with improvements (Praised by author!).
+- `Rpefabs` - A Roblox Prefabs Plugin, with an intentionally misspelled name.
+
 ### Previous work (private)
 
 I have also designed systems like custom multiplatform program installers with custom interfaces and efficient installation stacks.
