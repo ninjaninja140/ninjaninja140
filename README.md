@@ -65,6 +65,13 @@ I have also made Node.js packages like `jova.js` and more, which are featured on
 
 I am also currently working on developing my own specialised AI models specialised towards specific coding languages, use cases and more.
 
+### Previous work (commissioned, Roblox)
+
+- Deliway, a Subway inspired simulator game, 75k members, commissioned to build an automatic ranking system
+- jaDevelopment, 3k members, commissioned for LuaSIMS security update, among various other internal projects within the company
+- Oak and Ivy, 10k members, commissioned for automatic ranking system for gamepass purchases and more
+- Bloxco, 350k members, previously commissioned for a Roblox automations bot
+
 ### Previous work (Roblox-TS)
 
 I have published a range of packages, which can be found under the `@nrbx/*` scope on NPM.
