@@ -38,6 +38,7 @@ Skills that are not featured:
 
 - Deno (v2.x)
 - Hono
+- Roblox-TS (Advanced)
 - AI Prompting, vectorisation, machine learning and engineering
 
 ### My fields of Interests
