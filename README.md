@@ -13,7 +13,7 @@
 
 ## Full-stack web and server-side developer.
 
-*Last updated at: `14/08/2026`*
+*Last updated at: `16/11/2026`*
 
 <hr />
 
@@ -32,7 +32,7 @@ If you want to find me, my usernames range between @nn140 on platforms like Disc
 
 I have a range of skills under my belt, and abilities to work under varying tech-stacks, I know, write and understand various languages which are featured in the icon grid below.
 
-[![My Skills](https://skillicons.dev/icons?i=bash,cs,cloudflare,css,discordjs,docker,dotnet,electron,express,git,githubactionshtml,js,linux,mongodb,mysql,nextjs,nodejs,npm,postgres,powershell,prisma,py,react,robloxstudio,svg,ts,ubuntu,vercel,visualstudio,vscode,webpack,windows,workers,yarn&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,cs,cloudflare,css,discordjs,docker,dotnet,electron,express,rust,git,githubactionshtml,js,linux,mongodb,mysql,nextjs,nodejs,npm,postgres,powershell,prisma,py,react,robloxstudio,svg,ts,ubuntu,vercel,visualstudio,vscode,webpack,windows,workers,yarn&perline=12)](https://skillicons.dev)
 
 Skills that are not featured:
 
